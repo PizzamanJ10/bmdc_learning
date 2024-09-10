@@ -3,7 +3,7 @@ Author: Daniel Chait
 
 ## Intro
 The OSI model is the first basic thing any person learning networking needs to know.
-It is the model on which all networking today is based on. 
+It is the model on which all networking today is based.
 
 ## Source
 I personally recommend, especially if hebrew is your mother tongue, to learn from the following source: https://data.cyber.org.il/networks/networks.pdf.
