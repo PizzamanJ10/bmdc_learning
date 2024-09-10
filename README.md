@@ -30,6 +30,7 @@ Contributing is simple!
 If you'd like to contribute anything, switch to a a new branch, and either create a folder for the topic if it doesn't exist, or add it under a folder for the topic if it exists already, and make a PR!
 The reccomended format for material and courses is an `.md` file, which may point to external sources if needed. 
 If you're contributing an exercise that has a few files, just create a folder for your exercise, with all the files.
+We also recommend adding the authors name to each `.md` file (Checkout `Learning_Material/Networking/OSI_Model.md` for an example)
 
 ## Summary
 We hope this will be a good source for years to come for BMDC students to gain and share knowledge. 
