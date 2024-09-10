@@ -23,7 +23,7 @@ It contains either references to exercises on the internet that were reccomended
 This is the interesting folder.
 Say you want to learn a new topic. 
 To properly learn the topic, you will need a good blend of learning material and exercises. 
-This is the place, where you can find/contribute a recommended blend of material and exercises from the `Learning` and `Exersices` folder.
+This is the place, where you can find/contribute a recommended blend of material and exercises from the `Learning` and `Exersices` folder, and also external sources if needed.
 
 ## Contributing
 Contributing is simple!
