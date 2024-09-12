@@ -1,5 +1,5 @@
 # The OSI model 
-Author: Daniel Chait
+Author: PizzamanJ10
 
 ## Intro
 The OSI model is the first basic thing any person learning networking needs to know.

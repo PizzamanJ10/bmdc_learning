@@ -1,5 +1,5 @@
 # Http is (not) safe
-Author: Daniel Chait
+Author: PizzamanJ10
 
 ## Intro
 In this exercise you'll see exactly why we moved from http to https :)
