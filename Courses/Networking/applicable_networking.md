@@ -20,7 +20,7 @@ In this course we will cover the following:
 Let's get started!
 
 ### 1. The OSI Model
-For learning about the OSI model, start with the learning material at [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Networking/OSI_Model).
+For learning about the OSI model, start with the learning material at [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Networking/OSI_Model.md).
 There are exercise in the book it brings, make sure to do them. 
 
 ### 2.1 Wireshark
@@ -28,7 +28,7 @@ You should now have some basic knowledge in wireshark, from the previous lesson.
 To get more familiar with it, solve the exercises [here](/PizzamanJ10/bmdc_learning/blob/main/Exercises/Networking/Wireshark).
 
 ### 2.2 Nmap
-To start with Nmap, start with the learning material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Networking/Nmap).
+To start with Nmap, start with the learning material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Networking/Nmap.md).
 
 Then solve the exercise #TODO.
 
@@ -42,13 +42,13 @@ Then solve the exercises #TODO
 #TODO
 
 ### 4.1 Requests
-To learn about requests, read the material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Python/requests).
+To learn about requests, read the material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Python/requests.md).
 
-For exercises, solve the 2 exercises [here](/PizzamanJ10/bmdc_learning/blob/main/Exercises/Python/Requests).
+For exercises, solve the 2 exercises [here](/PizzamanJ10/bmdc_learning/blob/main/Exercises/Python/Requests.md).
 
 ### 4.2 Scapy
 Scapy, in my opionion, is one of the most useful libraries in Python for networking. 
-Use the learning material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Python/scapy).
+Use the learning material [here](/PizzamanJ10/bmdc_learning/blob/main/Learning_Material/Python/scapy.md).
 
 For the exercises, we made **a lot** of exercises for you to solve.
 This is because they also help summarize a lot of networking topics. 
