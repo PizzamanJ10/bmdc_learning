@@ -1,11 +1,12 @@
 # Development Tool Introduction
 
-Author ### @yechielb2000
+Author @yechielb2000
 
 ## What is DEV TOOL
 The browser dev tool (accessible via F12) is a set of utilities built into web browsers. It's commonly used for inspecting and debugging web applications.
 
-![](image.png)
+![image](https://github.com/user-attachments/assets/9ef74f41-7168-447c-8a80-7319e50e2076)
+
 
 Here's a breakdown of the key features:
 
@@ -41,7 +42,8 @@ Check for issues related to SSL certificates and site security configurations.
 
 Lets you know how much time takes to each function and shows network overview.
 
-![alt text](image-2.png)
+![image](https://github.com/user-attachments/assets/e489501c-2034-46af-8f6e-b686196b01c9)
+
 
 ---
 These tools are essential for web development and debugging, providing deep insights into how your web app behaves in the browser.
