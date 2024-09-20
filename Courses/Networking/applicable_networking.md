@@ -21,7 +21,7 @@ Let's get started!
 
 ### 1. The OSI Model
 For learning about the OSI model, start with the learning material at [here](/Learning_Material/Networking/OSI_Model.md).
-There are exercise in the book it brings, make sure to do them. 
+There are exercises in the book it brings, make sure to do them. 
 
 ### 2.1 Wireshark
 You should now have some basic knowledge in wireshark, from the previous lesson.
