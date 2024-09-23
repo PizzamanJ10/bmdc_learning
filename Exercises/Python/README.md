@@ -1,5 +1,7 @@
 # BMDC-Python-Exercises
 
+Author: Ephraim Haber
+
 # This Section Aims To Provide Exercises On The Following Topics
 
 ## Folder Structure Explanation

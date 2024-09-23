@@ -1,5 +1,7 @@
 # Multiple-Choice Quiz Game Instructions
 
+Author: Ephraim Haber
+
 ## Instructions
 
 ### 1. Set Up Your Data
