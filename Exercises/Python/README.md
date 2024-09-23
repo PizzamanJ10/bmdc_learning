@@ -2,6 +2,18 @@
 
 # This Section Aims To Provide Exercises On The Following Topics
 
+## Folder Structure Explanation
+
+> Each of the chapters below will have its own folder. Each folder will have multiple exercises aimed to Help practicing the topics in the chapter. Here we have the first exercise in chapter 1. Each exercise contains a `README.md` file. You will find the instructions over there. Good Luck!
+
+./Python
+├── Chapter-1
+│ └── 01-multiple-choice-quiz-game
+│ ├── README.md
+│ ├── multi_choice_quiz_game.py
+│ └── questions.py
+└── README.md
+
 ## Python Topics up to and Including Making UDP Calls
 
 ## 1. Python Basics
